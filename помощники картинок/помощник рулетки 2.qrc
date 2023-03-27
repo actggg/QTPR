@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="помощник рулетки 2">
+    <file>рулетка.png</file>
+  </qresource>
+</RCC>

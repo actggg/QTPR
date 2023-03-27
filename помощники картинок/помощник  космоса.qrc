@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="помомщник космоса">
+    <file>космос.png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="помощник викторины">
+    <file>викторина.jpg</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="1">
+    <file>объекты_ответы1.jpg</file>
+  </qresource>
+  <qresource prefix="2">
+    <file>объекты_ответы 2.jpg</file>
+  </qresource>
+  <qresource prefix="3">
+    <file>объекты_ответы (3).jpg</file>
+  </qresource>
+  <qresource prefix="4">
+    <file>объекты_ответы (4).jpg</file>
+  </qresource>
+  <qresource prefix="5">
+    <file>объекты_ответы (5).jpg</file>
+  </qresource>
+  <qresource prefix="6">
+    <file>объекты_ответы (6).jpg</file>
+  </qresource>
+</RCC>
